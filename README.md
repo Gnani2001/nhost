@@ -1,1 +1,1 @@
-# nhost
+# nhoste
